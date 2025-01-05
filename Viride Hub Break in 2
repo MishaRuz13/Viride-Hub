@@ -279,7 +279,7 @@ do
     })
 
 
-    local Slider = Tabs.Misc:AddSlider("Slider", {
+    local Slider = Tabs.Misc:AddSlider("PlrSlider", {
         Title = "Player Speed",
         Description = "",
         Default = 16,
